@@ -1,4 +1,4 @@
-This is a Web Notes personal project made in
+This is a Web Notes personal project built in
 <br>
 -HTML
 -CSS
