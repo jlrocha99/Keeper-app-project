@@ -1,5 +1,7 @@
 This is a Web Notes personal project made in
+<br>
 -HTML
 -CSS
 -JS
-And using the React library from JS and Tailwind library from CSS
+<br>
+and using the React library from JS and Tailwind library from CSS
