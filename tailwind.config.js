@@ -5,6 +5,7 @@ module.exports = {
         //External fonts
         fontFamily: {
             'McLaren' : ['McLaren', 'cursive'],
+            'Montserrat' : ['Montserrat', 'sans-serif'],
         },
     
     

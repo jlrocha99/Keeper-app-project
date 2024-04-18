@@ -7,7 +7,7 @@ import Footer from './Footer'
 function App() {
 
     return(
-        <div className="bg-zinc-200 flex flex-col">
+        <div className="bg-slate-200 w-screen max-h-full flex flex-col font-Montserrat">
             <Header />
             <Note />
             <Footer />
